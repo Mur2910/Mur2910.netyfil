@@ -68,5 +68,5 @@ rm projetos
 cp projetos novo_nome
 ```
  
- # aula_git
+
  
