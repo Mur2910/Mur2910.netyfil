@@ -7,7 +7,7 @@ Sempre configurar as credênciais do git.
 git config --global user.name "murilo bello"
 git config --global user.gmail murilinhobello27@gmail.com
 ```
- git remote add origin https://github.com/murilo/aula_nigger.git
+ git remote add origin https://github.com/murilo/aula_murilo.git
 ## Inicializar uma pasta com git
 ```bash
 git init
